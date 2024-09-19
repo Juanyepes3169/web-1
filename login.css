@@ -1,0 +1,31 @@
+.title{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 36px;
+    color:black;
+    margin-top: 10%;
+}
+
+#formulario{
+    text-align:center;
+    background-color:brown;
+    width: 30%;
+    padding:5%;
+    margin-left: 30%;
+    font-size: 24px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+input{
+    padding: 2%;
+}
+button{
+    padding: 2%;
+    width: 20%;
+    font-size: 24px;
+    color: white;
+    background-color: black;
+}
+body{
+    background-color:beige;
+}
